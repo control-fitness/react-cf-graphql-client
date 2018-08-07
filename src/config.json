@@ -1,6 +1,6 @@
 {
   "server": {
-    "url": "https://www.control.fitness/api"
+    "url": "http://graphql.control.fitness/graphql"
   },
   "cookie": {
     "authorization": {
