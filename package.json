@@ -1,6 +1,6 @@
 {
   "name": "react-cf-graphql-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GraphQL client for Control Fitness",
   "main": "index.js",
   "repository": "https://github.com/control-fitness/react-cf-graphql-client.git",
