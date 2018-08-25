@@ -1,7 +1,7 @@
 import ApolloClient from 'apollo-boost';
 import gql from 'graphql-tag';
 import cookies from 'js-cookie';
-import config from './config.json';
+import config from './config';
 
 /**
  * ApolloClient options

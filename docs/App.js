@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Client, { Cookies, Graphql } from '../src';
-import config from '../src/config.json';
+import config from '../src/config';
 
 Cookies.set(config.cookie.authorization.name, '1234567890abcdefghijklmnopqrstuvwxyz');
 Cookies.set(config.cookie.server.name, 'https://w5xlvm3vzz.lp.gql.zone/graphql');
