@@ -12,5 +12,8 @@ module.exports = {
     tenant: {
       name: 'cf-tenant',
     },
+    locale: {
+      name: 'cf-locale',
+    },
   },
 };
