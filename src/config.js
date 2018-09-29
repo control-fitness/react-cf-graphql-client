@@ -1,6 +1,6 @@
 module.exports = {
   server: {
-    url: 'http://graphql.control.fitness/graphql',
+    url: 'https://www.control.fitness/graph',
   },
   cookie: {
     authorization: {
